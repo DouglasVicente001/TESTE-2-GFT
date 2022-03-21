@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TESTE 2 GFT/1.0.0": {
+        "runtime": {
+          "TESTE 2 GFT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TESTE 2 GFT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

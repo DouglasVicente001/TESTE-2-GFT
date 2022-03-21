@@ -1,0 +1,15 @@
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\TESTE 2 GFT\obj\Debug\net6.0\TESTE 2 GFT.csproj.AssemblyReference.cache
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\TESTE 2 GFT\obj\Debug\net6.0\TESTE 2 GFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\TESTE 2 GFT\obj\Debug\net6.0\TESTE 2 GFT.AssemblyInfoInputs.cache
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\TESTE 2 GFT\obj\Debug\net6.0\TESTE 2 GFT.AssemblyInfo.cs
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\TESTE 2 GFT\obj\Debug\net6.0\TESTE 2 GFT.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\TESTE 2 GFT\bin\Debug\net6.0\TESTE 2 GFT.exe
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\TESTE 2 GFT\bin\Debug\net6.0\TESTE 2 GFT.deps.json
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\TESTE 2 GFT\bin\Debug\net6.0\TESTE 2 GFT.runtimeconfig.json
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\TESTE 2 GFT\bin\Debug\net6.0\TESTE 2 GFT.dll
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\TESTE 2 GFT\bin\Debug\net6.0\ref\TESTE 2 GFT.dll
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\TESTE 2 GFT\bin\Debug\net6.0\TESTE 2 GFT.pdb
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\TESTE 2 GFT\obj\Debug\net6.0\TESTE 2 GFT.dll
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\TESTE 2 GFT\obj\Debug\net6.0\ref\TESTE 2 GFT.dll
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\TESTE 2 GFT\obj\Debug\net6.0\TESTE 2 GFT.pdb
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\TESTE 2 GFT\obj\Debug\net6.0\TESTE 2 GFT.genruntimeconfig.cache
